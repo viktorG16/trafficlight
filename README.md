@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/86e9704d-8dc3-4c53-a204-46b917e3acbd)# 🚦 Traffic Light with Countdown – Arduino UNO + 5161AS 7-Segment Display
+# 🚦 Traffic Light with Countdown – Arduino UNO + 5161AS 7-Segment Display
 
 ## ✍️ Project Goal
 

@@ -1,4 +1,4 @@
-# 🚦 Traffic Light with Countdown – Arduino UNO + 5161AS 7-Segment Display
+![image](https://github.com/user-attachments/assets/86e9704d-8dc3-4c53-a204-46b917e3acbd)# 🚦 Traffic Light with Countdown – Arduino UNO + 5161AS 7-Segment Display
 
 ## ✍️ Project Goal
 
@@ -105,3 +105,7 @@ void displayDigit(int num) {
 - The **yellow LED** turns on for 3 seconds with a countdown.
 - The **red LED** turns on for 9 seconds with a countdown.
 - This cycle repeats continuously.
+
+## 🖼 Picture in tinkercad
+
+![image](https://github.com/user-attachments/assets/aeac93ea-c67c-411a-829a-32e8450b58e4)
